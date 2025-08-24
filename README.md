@@ -16,13 +16,16 @@ This project is a full-stack clone of the popular accommodation booking platform
   * Secure checkout process
   * User authentication
   
-Primary Pages              Page	Description
-Property                 Listing View	Grid display of available properties with filters
-Listing Detailed View	   Complete property details with images and booking form
-Simple Checkout View	   Streamlined payment and booking confirmation
+* Primary Pages            
+ * Property
+   * Listing View	Grid display of available properties with filters
+ * Listing Detailed View
+   * Complete property details with images and booking form
+ * Simple Checkout View
+   * Streamlined payment and booking confirmation
 
 Importance of User-Friendly Design
-A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.     
 
 Figma Design Specifications
 * Color Styles:
@@ -36,5 +39,7 @@ Figma Design Specifications
    * Headings: Circular, Bold (700), 24px-32px
    * Secondary Text: Circular, Book (400), 14px
 
-Importance of User-Friendly Design
+Importance of User-Friendly Design        
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+
