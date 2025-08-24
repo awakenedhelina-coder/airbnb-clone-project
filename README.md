@@ -77,7 +77,7 @@ Planned Components
 3. Site links
     * Company information
     * Social media links
-   *  Copyright information
+   *  Copyright information     
 Each component will be designed for reusability and consistency across the application.
 
 
