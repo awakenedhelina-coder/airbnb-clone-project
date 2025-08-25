@@ -162,6 +162,12 @@ QA Engineer: Ensures the backend functionalities are thoroughly tested and meet 
     * Indexing: Implement indexes for fast retrieval of frequently accessed data.    
     * Caching: Use caching strategies to reduce database load and improve performance.      
 
+# API security
+Important to safeguard application data and ensure secure transactions.
+    * authentication     
+    * authorization     
+    * rate limiting      
+
      
 
 
