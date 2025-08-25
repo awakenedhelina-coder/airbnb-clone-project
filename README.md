@@ -139,28 +139,28 @@ QA Engineer: Ensures the backend functionalities are thoroughly tested and meet 
   * DELETE /reviews/{review_id}/ - Delete a specific review     
  
 # Feature Breakdown
-  1. API Documentation
-    * OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
-    * Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.
-    * GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.
-  3. User Authentication
-    * Endpoints: /users/, /users/{user_id}/
-    * Features: Register new users, authenticate, and manage user profiles.
-  4. Property Management
-    * Endpoints: /properties/, /properties/{property_id}/
-    * Features: Create, update, retrieve, and delete property listings.
-  5. Booking System
-    * Endpoints: /bookings/, /bookings/{booking_id}/
-    * Features: Make, update, and manage bookings, including check-in and check-out details.
-  6. Payment Processing
-    * Endpoints: /payments/
-    * Features: Handle payment transactions related to bookings.
-  7. Review System
-    * Endpoints: /reviews/, /reviews/{review_id}/
-    * Features: Post and manage reviews for properties.
-  8. Database Optimizations
-    * Indexing: Implement indexes for fast retrieval of frequently accessed data.
-    * Caching: Use caching strategies to reduce database load and improve performance.
+  1. API Documentation         
+    * OpenAPI Standard: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.        
+    * Django REST Framework: Provides a comprehensive RESTful API for handling CRUD operations on user and property data.   
+    * GraphQL: Offers a flexible and efficient query mechanism for interacting with the backend.   
+  3. User Authentication   
+    * Endpoints: /users/, /users/{user_id}/   
+    * Features: Register new users, authenticate, and manage user profiles.   
+  4. Property Management    
+    * Endpoints: /properties/, /properties/{property_id}/    
+    * Features: Create, update, retrieve, and delete property listings.   
+  5. Booking System   
+    * Endpoints: /bookings/, /bookings/{booking_id}/   
+    * Features: Make, update, and manage bookings, including check-in and check-out details.    
+  6. Payment Processing     
+    * Endpoints: /payments/     
+    * Features: Handle payment transactions related to bookings.     
+  7. Review System      
+    * Endpoints: /reviews/, /reviews/{review_id}/     
+    * Features: Post and manage reviews for properties.     
+  8. Database Optimizations      
+    * Indexing: Implement indexes for fast retrieval of frequently accessed data.    
+    * Caching: Use caching strategies to reduce database load and improve performance.      
 
      
 
