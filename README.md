@@ -170,8 +170,10 @@ Important to safeguard application data and ensure secure transactions.
 # CI/CD Pipeline Integration            
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.      
   * Docker
+
+![ER Diagram](airbnb_ERD.png)
     
-![ER Diagram](ERD/ERD.png)
+
 
 
     
